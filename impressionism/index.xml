@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impressionism on Ronnie Photography</title>
-    <link>http://example.org/impressionism/</link>
+    <link>http://ronnieusa.github.io/impressionism/</link>
     <description>Recent content in Impressionism on Ronnie Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>tienhsiangkao@gmail.com (Ronnie Kao)</managingEditor>
     <webMaster>tienhsiangkao@gmail.com (Ronnie Kao)</webMaster>
-    <lastBuildDate>Sun, 11 Apr 2021 01:58:37 -0500</lastBuildDate><atom:link href="http://example.org/impressionism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Apr 2021 01:58:37 -0500</lastBuildDate><atom:link href="http://ronnieusa.github.io/impressionism/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
