@@ -171,20 +171,21 @@
                 <div>
                     <section>
                         <h2>Get in touch</h2>
-                        <form method="post" action="//formspree.io/tienhsiangkao@gmail.com" novalidate>
-                            <div class="field half first">
-                                <input type="text" name="name" required data-validation-required-message="Please, enter your name" id="name" placeholder="Name *" />
-                            </div>
-                            <div class="field half">
-                                <input type="email" name="email" required data-validation-required-message="Please, enter your email." id="email" placeholder="Email *" />
-                            </div>
-                            <div class="field">
-                                <textarea name="message" required data-validation-required-message="Please, enter your message" id="message" rows="4" placeholder="Message *"></textarea>
-                            </div>
-                            <ul class="actions">
-                                <li><input type="submit" value="Send" class="special" /></li>
-                                <li><input type="reset" value="Reset" /></li>
-                            </ul>
+                        <form action="https://formspree.io/f/mleadgrv"
+                              method="POST"
+                        >
+                          <label>
+                            Your email:
+                            <input type="email" name="_replyto">
+                          </label>
+                          <label>
+                            Your message:
+                            <textarea name="message"></textarea>
+                          </label>
+
+                          
+
+                          <button type="submit">Send</button>
                         </form>
                     </section>
                 </div>
